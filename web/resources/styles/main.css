@@ -1,0 +1,13 @@
+.panel-body {
+    padding-left: 0;
+}
+
+.list-group-item input {
+    width: 60px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+#txtProducto{
+    min-width: 300px;
+}
